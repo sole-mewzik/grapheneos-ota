@@ -1,7 +1,7 @@
 {
   "version": 2,
   "full": {
-    "location_ota": "https://github.com/example/releases/download/2026050700/caiman-2026050700-magisk-v30.7-601d4c8.zip",
-    "location_csig": "https://github.com/example/releases/download/2026050700/caiman-2026050700-magisk-v30.7-601d4c8.zip.csig"
+    "location_ota": "https://github.com/sole-mewzik/grapheneos-ota/releases/download/2026050900/caiman-2026050900-magisk-v30.7-.zip",
+    "location_csig": "https://github.com/sole-mewzik/grapheneos-ota/releases/download/2026050900/caiman-2026050900-magisk-v30.7-.zip.csig"
   }
 }
